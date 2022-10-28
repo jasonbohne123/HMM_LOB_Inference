@@ -1,4 +1,4 @@
-### Maximization of the Log-Likelihood of Hidden Markov Models on the Limit Order Book
+### Statistical Inference of Hidden Markov Models on High Frequency Quote Data
 
 
 **Model Formulation**
