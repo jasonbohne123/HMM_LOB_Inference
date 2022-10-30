@@ -13,4 +13,4 @@
   - Spread Narrows
   
   
-  Statistical Inference completed with starting values provided by Baum-Welch Algorithm
+  Statistical Inference completed as a constrained optimization problem with starting values provided by Baum-Welch Algorithm
