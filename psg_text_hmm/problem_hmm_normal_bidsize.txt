@@ -1,0 +1,3 @@
+problem_HMM_Normal, maximize
+  hmm_normal(2,vector_bidsize)
+  Solver: VAN , precision=9, stages=10
