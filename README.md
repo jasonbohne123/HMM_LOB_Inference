@@ -8,9 +8,7 @@
   - Offer Size
   - OrderBook Imbalance
   - Spread
- - Hidden States
-  - Spread Widens
-  - Spread Narrows
-  
+- Benchmarks PSG HMM_Normal against HMMLearn's Gaussian HMM which is solved heuristically and via the Viterbi algorithm
+
   
   Statistical Inference completed as a constrained optimization problem with starting values provided by Baum-Welch Algorithm
