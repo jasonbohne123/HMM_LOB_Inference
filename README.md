@@ -8,7 +8,15 @@
   - Offer Size
   - OrderBook Imbalance
   - Spread
-- Benchmarks PSG HMM_Normal against HMMLearn's Gaussian HMM which is solved heuristically and via the Viterbi algorithm
 
   
-  Statistical Inference completed as a constrained optimization problem with starting values provided by Baum-Welch Algorithm
+  **Statistical Inference**
+  - Baum-Welch Algorithm
+  - Viterbi Dynamic Programming Algorithm
+
+  **Numerical Results**
+  - For each feature HMM was fitted on a single day of high0frequency top of book data 
+  - Procedure repeated for entire month of Jan 2020
+  - Fitted models using PSG and Hmmlearn were compared
+  
+
