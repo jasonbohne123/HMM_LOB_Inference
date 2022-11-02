@@ -15,7 +15,7 @@
   - Viterbi Dynamic Programming Algorithm
 
   **Numerical Results**
-  - For each feature HMM was fitted on a single day of high0frequency top of book data 
+  - For each feature HMM was fitted on a single day of high-frequency top of book data 
   - Procedure repeated for entire month of Jan 2020
   - Fitted models using PSG and Hmmlearn were compared
   
