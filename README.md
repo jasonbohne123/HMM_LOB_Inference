@@ -10,11 +10,11 @@
   - Spread
 
   
-  **Statistical Inference**
+**Statistical Inference**
   - Baum-Welch Algorithm
   - Viterbi Dynamic Programming Algorithm
 
-  **Numerical Results**
+**Numerical Results**
   - For each feature HMM was fitted on a single day of high-frequency top of book data 
   - Procedure repeated for entire month of Jan 2020
   - Fitted models using PSG and Hmmlearn were compared
