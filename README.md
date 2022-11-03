@@ -17,6 +17,7 @@
 **Numerical Results**
   - For each feature HMM was fitted on a single day of high-frequency top of book data 
   - Procedure repeated for entire month of Jan 2020
-  - Fitted models using PSG and Hmmlearn were compared
+  - Optimal parameter estimates from PSG and Hmmlearn were compared using two sample t-test at a 5% significance level
+
   
 
