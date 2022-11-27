@@ -20,9 +20,9 @@
   - Optimal parameter estimates from PSG and Hmmlearn were compared using two sample t-tests at a 5% significance level
   
 **Repo Outline**
-  - Data Preprocessing
-  - Walk through of HMM Inference procedure
-  - Script to iteratively fit HMM models and test the statistical significance of results 
+  - Data Preprocessing and Feature Generation
+  - Inference Problem and Helpers 
+  - Summary Report and Presentation 
 
   
 
