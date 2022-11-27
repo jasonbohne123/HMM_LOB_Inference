@@ -1,0 +1,6 @@
+.vscode/
+__pycache__/
+psg_text_hmm/problem_hmm_discrete.txt
+psg_text_hmm/vector_observation_300.txt
+data/raw_data/
+data/AAPL_quotes_2020_cleaned.csv
